@@ -30,9 +30,7 @@ Can do a little 3D modeling.
 
 ### 联系我📪
 
-- Email: yuyanfeng5302@outlook.com
-- QQ: 1265810410@qq.com
-- BiliBili: @知识即是力量
+- QQ/Email: 1265810410@qq.com
 - Telegram: @Fire_Mount（不常用）
 
 ##
