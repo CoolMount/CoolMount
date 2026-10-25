@@ -1,11 +1,11 @@
 ## Hi!👋Welcome! | 欢迎光临！
 
 
-### 我是FireMount（CoolMount）
+### 我是 FireMount（CoolMount）
 
 #### I'm *FireMount（CoolMount）*
 
-一名中学生
+一名高中生
 
 学习安卓开发ing
 
