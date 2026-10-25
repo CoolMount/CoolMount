@@ -22,13 +22,13 @@ Can do a little 3D modeling.
 > 学业繁忙，上线随缘⏳️
 
 
-### 正在学习📖
+### 正在学习 📖
 
 [![My Language](https://skillicons.dev/icons?theme=light&i=python,kotlin,html)](https://skillicons.dev)
 
 [![My Tools](https://skillicons.dev/icons?theme=light&i=androidstudio,vscode,blender)](https://skillicons.dev)
 
-### 联系我📪
+### 联系我 📪
 
 - QQ/Email: 1265810410@qq.com
 - Telegram: @Fire_Mount（不常用）
